@@ -1,8 +1,12 @@
 # CS1030Project
 
 Cece Housh
+<p>
 901015203
+<p>
 05/01/2023
+<p>
+
 CS Principles Final Project
 
 Khan Academy Data Analysis Portion
